@@ -8,5 +8,5 @@ The following changesets are being prepared to be submitted upstream based on
 
 | Upstream repo                                                                            | Changeset                                                                                                      |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| [openconatiners/distribution-spec](https://github.com/opencontainers/distribution-spec)  | [View](https://github.com/opencontainers/distribution-spec/compare/main...oci-playground:distribution-spec:pr) |
-| [openconatiners/image-spec](https://github.com/opencontainers/image-spec)                | [View](https://github.com/opencontainers/image-spec/compare/main...oci-playground:image-spec:pr)              
+| [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec)  | [View](https://github.com/opencontainers/distribution-spec/compare/main...oci-playground:distribution-spec:pr) |
+| [opencontainers/image-spec](https://github.com/opencontainers/image-spec)                | [View](https://github.com/opencontainers/image-spec/compare/main...oci-playground:image-spec:pr)              
