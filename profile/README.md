@@ -1,6 +1,8 @@
-This GitHub org is an extension of [OCI Working Group: Reference Types](https://github.com/opencontainers/wg-reference-types).
+This GitHub org is used by various [OCI Working Groups](https://github.com/opencontainers/tob/blob/main/WG-INFO.md) to test implementations and coordinate PRs.
 
----
+## Reference Types Working Group
+
+[OCI Working Group: Reference Types](https://github.com/opencontainers/wg-reference-types).
 
 The following changesets are being prepared to be submitted upstream based on
 [Proposal E](https://github.com/opencontainers/wg-reference-types/blob/main/docs/proposals/PROPOSAL_E.md).
